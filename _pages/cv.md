@@ -60,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Leading development on the open source model, MUSE. For this, I work with 4 PhD students, 2 MSc students and a postdoc to inform future policy and investment decisions using quantitative modelling.
