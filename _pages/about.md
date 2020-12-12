@@ -25,11 +25,13 @@ Much of my own work involves the modelling of electricity markets, both over the
 
 2020
 
-- Presented at the NeurIPS 2020 workshop: [Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2020)
+- Presented at the NeurIPS 2020 workshop: [Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2020).
 
-- Presented at the [The 4th IEEE International Workshop on Big Data for Financial News and Data](https://intelligentfinance.github.io/IEEE2020-BigData-Workshop/index.html)
+- Presented at the [The 4th IEEE International Workshop on Big Data for Financial News and Data](https://intelligentfinance.github.io/IEEE2020-BigData-Workshop/index.html).
 
-- Presented full papers at [e-Energy 2020](https://energy.acm.org/conferences/eenergy/2020/program.php) and [2nd International Workshop on Applied Machine Learning for Intelligent Energy Systems (AMLIES) 2020](http://sinberbest.berkeley.edu/amlies/2020)
+- Presented at [The Eleventh International Green and Sustainable Computing Conference](https://www.igscc.org).
+
+- Presented full papers at [e-Energy 2020](https://energy.acm.org/conferences/eenergy/2020/program.php) and [2nd International Workshop on Applied Machine Learning for Intelligent Energy Systems (AMLIES) 2020](http://sinberbest.berkeley.edu/amlies/2020).
 
 
 ## Selected Publications
