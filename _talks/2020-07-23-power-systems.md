@@ -10,4 +10,4 @@ location: "Newcastle University, (Virtual)"
 
 At this session, I presented my work on using genetic algorithms for optimisation problems as well as reinforcement learning to bid strategically within electricity markets.
 
-See the presentation [here](https://alexanderkell.co.uk/files/power-systems-presentation)
+See the presentation [here](https://alexanderkell.co.uk/files/power-systems-presentation.pdf)
