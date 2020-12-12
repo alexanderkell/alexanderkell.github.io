@@ -19,16 +19,16 @@ Work experience
 * 2020 - Present: Research Associate
   * Imperial College London
   
-* 2019 - Present: Policy Intern
+* 2019: Policy Intern
   * University of Cambridge
   
-* 2017 - Present: Data Science Placement
+* 2017: Data Science Placement
   * Red Hat
 
 * 2015-2016: Graduate
   * Telefonica
 
-* 2015-2016: Engineering Intern
+* 2014: Engineering Intern
   * Huawei
 
 
