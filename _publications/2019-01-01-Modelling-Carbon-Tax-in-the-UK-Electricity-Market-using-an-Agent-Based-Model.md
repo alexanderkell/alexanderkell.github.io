@@ -6,4 +6,11 @@ date: 2019-01-01
 venue: 'In the proceedings of Proceedings of the Tenth ACM International Conference on Future Energy Systems'
 citation: ' Alexander Kell,  Matthew Forshaw,  A McGough, &quot;Modelling Carbon Tax in the UK Electricity Market using an Agent-Based Model.&quot; In the proceedings of Proceedings of the Tenth ACM International Conference on Future Energy Systems, 2019.'
 ---
+
+Abstract:
+
+Impacts on natural and human systems have already been observed due to anthropogenic greenhouse gas emissions. To reduce these emissions, a transition to a low-carbon economy is required. Carbon taxes can be used as a tool for pricing in the negative ex- ternalities of pollution and enabling a more rapid transition to a low-carbon economy. This paper proposes the use of agent-based models to simulate
+
+an electricity market. We have used the United Kingdom as an exemplar, however any country can be used through parametrisation. We vary carbon tax to observe the e??ects on investment up until 2050. We ??nd that a carbon tax of £70 ($90) per tonne ofCO2 is su??cient in driving investment to an almost 100% renewable energy supply. A less aggressive option, however, of setting a carbon tax at £20 ($26) would lead to a 50% low-carbon, 50% traditional generation energy mix.
+
 Use [Google Scholar](https://scholar.google.com/scholar?q=Modelling+Carbon+Tax+in+the+UK+Electricity+Market+using+an+Agent+Based+Model){:target="_blank"} for full citation
