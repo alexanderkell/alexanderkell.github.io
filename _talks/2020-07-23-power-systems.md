@@ -4,7 +4,7 @@ collection: talks
 type: "Tutorial"
 permalink: /talks/2020-07-23-power-systems
 venue: "Power Systems Group, Newcastle University"
-date: 2020-12-11
+date: 2020-07-23
 location: "Newcastle University, (Virtual)"
 ---
 
