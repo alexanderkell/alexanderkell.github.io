@@ -21,5 +21,14 @@ My research interests lie at the intersection of macro-economic policy, computer
 Much of my own work involves the modelling of electricity markets, both over the short and long-term using agent-based models, optimisation and machine learning [[1]](https://dl.acm.org/doi/abs/10.1145/3396851.3397682), [[2]](https://dl.acm.org/doi/abs/10.1145/3396851.3402369).
 
 
+## News
+
+2020
+
+- Presented at the NeurIPS 2020 workshop: [Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2020)
+
+- Presented at the [The 4th IEEE International Workshop on Big Data for Financial News and Data](https://intelligentfinance.github.io/IEEE2020-BigData-Workshop/index.html)
+
+
 
 
