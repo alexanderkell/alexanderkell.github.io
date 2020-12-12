@@ -3,6 +3,7 @@ title: "Modelling Carbon Tax in the UK Electricity Market using an Agent-Based M
 collection: publications
 permalink: /publication/2019-01-01-Modelling-Carbon-Tax-in-the-UK-Electricity-Market-using-an-Agent-Based-Model
 date: 2019-01-01
+exerpt: "The main contribution of this paper is to find an optial carbon tax using machine learning"
 venue: 'In the proceedings of Proceedings of the Tenth ACM International Conference on Future Energy Systems'
 citation: ' Alexander Kell,  Matthew Forshaw,  A McGough, &quot;Modelling Carbon Tax in the UK Electricity Market using an Agent-Based Model.&quot; In the proceedings of Proceedings of the Tenth ACM International Conference on Future Energy Systems, 2019.'
 ---
