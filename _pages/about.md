@@ -29,6 +29,15 @@ Much of my own work involves the modelling of electricity markets, both over the
 
 - Presented at the [The 4th IEEE International Workshop on Big Data for Financial News and Data](https://intelligentfinance.github.io/IEEE2020-BigData-Workshop/index.html)
 
-- Presented full paper at [e-Energy 2020](https://energy.acm.org/conferences/eenergy/2020/program.php) and [2nd International Workshop on Applied Machine Learning for Intelligent Energy Systems (AMLIES) 2020](http://sinberbest.berkeley.edu/amlies/2020)
+- Presented full papers at [e-Energy 2020](https://energy.acm.org/conferences/eenergy/2020/program.php) and [2nd International Workshop on Applied Machine Learning for Intelligent Energy Systems (AMLIES) 2020](http://sinberbest.berkeley.edu/amlies/2020)
 
 
+## Selected Publications
+
+- **Alexander JM Kell**, Pablo Salas, Jean-Francois Mercure, Matthew Forshaw, A Stephen McGough, Deep Reinforcement Learning in Electricity Generation Investment for the Minimization of Long-Term Carbon Emissions and Electricity Costs, NeurIPS 2020 Workshop Tackling Climate Change with Machine Learning, Virtual Event
+
+- **Alexander JM Kell**, Matthew Forshaw, A Stephen McGough, Exploring market power using deep reinforcement learning for intelligent bidding strategies, The 4th IEEE International Workshop on Big Data for Financial News and Data at 2020 IEEE International Conference on Big Data (IEEE BigData 2020), Virtual Event
+
+- **Alexander JM Kell**, Matthew Forshaw, A Stephen McGough, Long-Term Electricity Market Agent Based Model Validation Using Genetic Algorithm Based Optimization, Proceedings of the Eleventh ACM International Conference on Future Energy Systems, Virtual Event
+
+- **Alexander JM Kell**, Matthew Forshaw, A Stephen McGough, Optimising energy and overhead for large parameter space simulations, 2019 Tenth International Green and Sustainable Computing Conference (IGSC), Alexandria VA, USA
