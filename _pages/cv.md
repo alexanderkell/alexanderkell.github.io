@@ -30,7 +30,8 @@ Work experience
 
 * 2015-2016: Engineering Intern
   * Huawei
-  
+
+
 Skills
 ======
 * Python

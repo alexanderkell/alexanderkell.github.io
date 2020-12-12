@@ -33,6 +33,12 @@ Much of my own work involves the modelling of electricity markets, both over the
 
 - Presented full papers at [e-Energy 2020](https://energy.acm.org/conferences/eenergy/2020/program.php) and [2nd International Workshop on Applied Machine Learning for Intelligent Energy Systems (AMLIES) 2020](http://sinberbest.berkeley.edu/amlies/2020).
 
+2019
+
+- Finished internship at University of Cambridge's Centre for Science and Policy.
+
+- Presented at [The Tenth International Green and Sustainable Computing Conference](https://www.igscc.org).
+
 
 ## Selected Publications
 
