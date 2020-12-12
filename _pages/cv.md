@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MEng in Electrical and Electronic Engineering, University College London, 2015
+* PhD in Computer Science, Newcastle University, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - Present: Research Associate
+  * Imperial College London
+  
+* 2019 - Present: Policy Intern
+  * University of Cambridge
+  
+* 2017 - Present: Data Science Placement
+  * Red Hat
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2016: Graduate
+  * Telefonica
+
+* 2015-2016: Engineering Intern
+  * Huawei
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Machine Learning
+  * Deep Learning
+  * Reinforcement Learning
+  * Statistics
+* Quantitave Policy Analysis
 
 Publications
 ======
