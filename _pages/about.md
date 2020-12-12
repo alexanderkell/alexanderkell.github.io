@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a research associate (Postdoc) at Imperial College London. Here I look at how companies, governments and people will be impacted by the changes to energy systems. 
+I am a research associate (Postdoc) at Imperial College London. Here I look at how companies, governments and people may be impacted by the changes to energy systems over the coming decades. To achieve this, I lead development on open-source MUSE model.
 
-I joined Imperial in 2020 from Newcastle University following my PhD in computer science. During this time I developed methods based on machine learning, reinforcement learning and multi-agent systems to develop long-term energy models of national energy systems. Previously, I studied an MEng in electrical and electronic engineering at University College London. 
+I joined Imperial in 2020 from Newcastle University following my PhD in computer science. During this time I developed methods based on machine learning, reinforcement learning and multi-agent systems to create long-term energy models of national energy systems. Previously, I studied an MEng in electrical and electronic engineering at University College London. 
 
 ### Research
 
