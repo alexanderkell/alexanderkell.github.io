@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "Segmenting residential smart meter data for short-term load forecasting"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://dl.acm.org/doi/abs/10.1145/3208903.3208923
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
