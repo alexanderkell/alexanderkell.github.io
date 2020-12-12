@@ -29,6 +29,6 @@ Much of my own work involves the modelling of electricity markets, both over the
 
 - Presented at the [The 4th IEEE International Workshop on Big Data for Financial News and Data](https://intelligentfinance.github.io/IEEE2020-BigData-Workshop/index.html)
 
-
+- Presented full paper at [e-Energy 2020](https://energy.acm.org/conferences/eenergy/2020/program.php) and [2nd International Workshop on Applied Machine Learning for Intelligent Energy Systems (AMLIES) 2020](http://sinberbest.berkeley.edu/amlies/2020)
 
 
