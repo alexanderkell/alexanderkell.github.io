@@ -2,7 +2,7 @@
 title: "Genetic algorithm optimisation and reinforcement learning control"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2020-07-23-power-systems
 venue: "Power Systems Group, Newcastle University"
 date: 2020-12-11
 location: "Newcastle University, (Virtual)"
