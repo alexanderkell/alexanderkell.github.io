@@ -1,5 +1,5 @@
 ---
-title: "MSc Dissertation, Advanced Chemical Engineering"
+title: "MSc Supervision, Advanced Chemical Engineering"
 collection: teaching
 type: "Co-supervision"
 permalink: https://www.imperial.ac.uk/study/pg/chemical-engineering/advanced-chemical-engineering/
