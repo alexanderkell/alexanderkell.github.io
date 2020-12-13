@@ -4,7 +4,7 @@ collection: teaching
 type: "Co-supervision"
 permalink: https://www.imperial.ac.uk/study/pg/chemical-engineering/advanced-chemical-engineering/
 venue: "Imperial College London"
-date: 2020-07-01
+date: 2020-09-28
 location: "London, UK"
 ---
 
