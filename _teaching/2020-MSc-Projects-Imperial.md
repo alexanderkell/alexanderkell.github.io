@@ -3,7 +3,7 @@ title: "MSc Dissertation, Advanced Chemical Engineering"
 collection: teaching
 type: "Co-supervision"
 permalink: https://www.imperial.ac.uk/study/pg/chemical-engineering/advanced-chemical-engineering/
-venue: "Imprial College London"
+venue: "Imperial College London"
 date: 2020-07-01
 location: "London, UK"
 ---
