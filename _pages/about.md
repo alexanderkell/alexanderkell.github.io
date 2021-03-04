@@ -23,6 +23,10 @@ Much of my own work involves the modelling of electricity markets, both over the
 
 ## News
 
+2021
+
+- Publication at Elsevier [Sustainable Computing: Informatics and Systems](https://www.journals.elsevier.com/sustainable-computing-informatics-and-systems).
+
 2020
 
 - Presented at the NeurIPS 2020 workshop: [Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2020).
